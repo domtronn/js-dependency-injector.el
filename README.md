@@ -18,8 +18,10 @@ with the way you would like.
 
 ## Installation ##
 
-This project requries [`js2-mode`](https://github.com/mooz/js2-mode)
+### Prerequisites
+* This project requries [`js2-mode`](https://github.com/mooz/js2-mode)
 for the AST parsing.
+* This project requires [`eslint-reader`](https://github.com/domtronn/eslint-reader.el)
 
 Clone this repository and add it to Emac's `load-path`. Then require the file:
 ```
